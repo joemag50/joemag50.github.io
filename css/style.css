@@ -1,0 +1,60 @@
+body{
+	font-family: 'Roboto Slab', serif;
+	background-color: #FFFFC8;
+	color: #99CC99;
+}
+img {
+	max-width: 100%;
+}
+a{
+	color: #FF530D;
+}
+.quitar-float{
+	float: none;
+}
+.quitar-espacio{
+	margin-top: 100px;
+}
+.barrio{
+	font-family: 'Barrio', cursive;
+}
+.grande{
+	font-size: 3em;
+}
+.verde{
+	color: #99CC00;
+}
+.espacio-derecha{
+	margin-right: 2em;
+}
+.no-lista{
+	padding: 0px;
+	margin: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.vete-arriba{
+	vertical-align: top;
+}
+.mediano{
+	font-size: 1.5em;
+}
+.anim-retraso1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.anim-retraso2{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
